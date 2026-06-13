@@ -1,4 +1,4 @@
 - Hi, I’m Riya
 - I’m interested in front end development ,UI UX , graphic designing.
-- I’m currently learning full stack development, and dsa in java
+- I’m currently learning full stack development, and dsa in java.
 -Currently I'm pursuing Btech in computer Science from Gurgaon.
